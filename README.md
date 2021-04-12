@@ -16,7 +16,7 @@ I'm Joel Olawanle from Nigeria. I'm a Frontend developer, technical writer, open
 - [YouTube](https://www.youtube.com/joelsacademy)
 - [Twitter](https://twitter.com/olawanle_joel)
 - [LinkedIn](https://www.linkedin.com/in/olawanlejoel)
-- [Portfolio](https://joelo.netlify.app/)
+- [Portfolio](https://joel-new.netlify.app/)
 - [Instagram](https://www.instagram.com/olawanle_joel/)
 - [Facebook](https://www.facebook.com/olawanletjoel/)
 - [Dev Community](dev.to/olawanle_joel/)

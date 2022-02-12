@@ -8,6 +8,7 @@ I'm Joel Olawanle from Nigeria. I'm a Frontend developer, technical writer, open
 - 📫 How to reach me: [@olawanle_joel](https://twitter.com/olawanle_joel)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love watching football especially Manchester United Matches.
+- ✍️ Access all my writings [here](https://t.co/9Os48eNNbt)
 
 ### Useful Links 💙
 
@@ -20,4 +21,3 @@ I'm Joel Olawanle from Nigeria. I'm a Frontend developer, technical writer, open
 - [Instagram](https://www.instagram.com/olawanle_joel/)
 - [Facebook](https://www.facebook.com/olawanletjoel/)
 - [Dev Community](dev.to/olawanle_joel/)
-
